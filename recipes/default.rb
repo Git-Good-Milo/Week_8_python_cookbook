@@ -17,3 +17,4 @@ package "python-pip"
 execute 'install requests==2.3.0' do
   command 'pip install requests==2.3.0'
 end
+#
